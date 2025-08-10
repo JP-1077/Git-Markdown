@@ -1,2 +1,6 @@
 # Git-Markdown
-Aplicação de comandos git juntamente com métodos de colaboração utilizando a linguagem markdown
+---
+
+## Objetivo
+
+* Aplicação de comandos git juntamente com métodos de colaboração utilizando a linguagem markdown
